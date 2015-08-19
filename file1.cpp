@@ -1,7 +1,7 @@
 #include<iostream.h>
-#include<stdio.h>
 int main()
 {
 cout<<"hello world";
+cout<<"hi hello";
 return 0;
 }
